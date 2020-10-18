@@ -46,10 +46,10 @@ export default {
   data() {
     return {
       buttons: {
-        0: { color: "red", active: false },
-        1: { color: "blue", active: false },
-        2: { color: "green", active: false },
-        3: { color: "yellow", active: false },
+        0: {  active: false },
+        1: {  active: false },
+        2: {  active: false },
+        3: {  active: false },
       },
       run: false,
       round: 1,
